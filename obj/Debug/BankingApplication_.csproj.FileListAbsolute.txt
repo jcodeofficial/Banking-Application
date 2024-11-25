@@ -1,0 +1,15 @@
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_.csproj.AssemblyReference.cache
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.Balance_Sheet.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.FDForm.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.Login_Form.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.Menu.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.newAccount.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.Properties.Resources.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.AllCustomers.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.Transfer.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.View_FD.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.Withdraw.resources
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_.csproj.GenerateResource.cache
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_.csproj.CoreCompileInputs.cache
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.exe
+C:\Users\r0yal\source\repos\BankingApplication_Tutorial\BankingApplication_Tutorial\obj\Debug\BankingApplication_Tutorial.pdb
