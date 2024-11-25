@@ -1,1 +1,1 @@
-
+The Banking Application Demo is a Windows Forms-based desktop application built using C#. It simulates essential banking operations such as deposits, withdrawals, and balance inquiries. This project demonstrates object-oriented programming principles, event-driven design, and basic GUI development using .NET technologies.
